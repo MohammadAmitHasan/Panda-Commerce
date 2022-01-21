@@ -1,0 +1,26 @@
+.panda-bgcolor{
+    background-color: #fceae8;
+}
+.panda-color{
+    color: #FF136F;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius: 8px;
+    padding: 9px 25px;
+    color: white;
+    border: none;
+}
+.panda-btn:hover{
+    background-image: linear-gradient(to bottom, rgb(255, 174, 0), red);
+    color: white;
+}
+.panda-bg-orange{
+    background-color: rgba(255, 166, 0, 0.329);
+}
+.panda-bg-orchid{
+    background-color: rgba(218, 112, 214, 0.336);
+}
+.panda-bg-blue{
+    background-color: rgba(0, 0, 255, 0.37);
+}
